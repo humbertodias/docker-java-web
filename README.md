@@ -1,1 +1,3 @@
-# docker-java-web
+```
+docker build .
+```

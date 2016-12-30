@@ -6,7 +6,7 @@ Servicio de JavaEE con Docker usando AlpineLinux.
 # Prerrequisitos
 
 1. [Docker](https://www.docker.com) 1.12+
-2. [VirtualBox](www.virtualbox.org) 5.0+ (required only for Mac or Windows)
+2. [VirtualBox](www.virtualbox.org) 5.0+ (Necesario sólo para Mac o Windows)
 
 # Cómo empezar
 
